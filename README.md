@@ -1,0 +1,1 @@
+# userscript-fix-google-chat-title-bar-color
